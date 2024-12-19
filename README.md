@@ -42,4 +42,4 @@ O Gerenciador de Tarefas Java tem como objetivo proporcionar uma plataforma simp
    - Sincronização com ferramentas como Google Calendar.
 
 7. **Responsividade**:
-   - Interface acessível tanto para desktop quanto para dispositivos móvei
+   - Interface acessível tanto para desktop quanto para dispositivos móveis
