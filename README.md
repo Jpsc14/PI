@@ -11,7 +11,7 @@
 ## Time de Desenvolvedores
 - **Joao Pedro** - Líder do projeto e desenvolvedora back-end.
 - **Carlos Oliveira** - Desenvolvedor full-stack.
-- **Maria Santos** - Desenvolvedora front-end.
+- **Maria Santos** - Desenvolvedora front-end.ZCV
 - **João Lima** - Especialista em banco de dados.
 
 ## Objetivo do Software
