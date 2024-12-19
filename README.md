@@ -7,7 +7,7 @@
 - **MySQL**: Banco de dados relacional.
 - **Thymeleaf**: Template engine para renderização do front-end.
 - **Git e GitHub**: Para controle de versão e colaboração.
-
+DSFG
 ## Time de Desenvolvedores
 - **Joao Pedro** - Líder do projeto e desenvolvedora back-end.
 - **Carlos Oliveira** - Desenvolvedor full-stack.
