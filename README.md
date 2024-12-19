@@ -25,7 +25,7 @@ O Gerenciador de Tarefas Java tem como objetivo proporcionar uma plataforma simp
 2. **Autenticação e Login**:
    - Login seguro com autenticação baseada em token.
    - Recuperação de senha.
-
+DSFG
 3. **Gerenciamento de Tarefas**:
    - Criação, edição e exclusão de tarefas.
    - Definição de prioridades e prazos.
